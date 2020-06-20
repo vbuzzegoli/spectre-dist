@@ -4,13 +4,11 @@
 
 _Spectre_ is a software that allows you to **create desktop applications for any web applications**, on Mac OSX. :fire:
 
-> It comes with an [Application](https://github.com/vbuzzegoli/spectre-dist/blob/master/Spectre.zip) and a [CLI (Command Line Interface)](https://github.com/vbuzzegoli/spectre-engine) that allows you to configure and build these applications dynamically.
-
-## How to use
+## Installation
 
 ![spectre](spectre.png)
 
-- **[DOWNLOAD APPLICATION HERE](https://github.com/vbuzzegoli/spectre-dist/blob/master/Spectre.zip)**
+- **[DOWNLOAD APPLICATION HERE](https://github.com/vbuzzegoli/spectre-dist/raw/master/Spectre.zip)**
 - Unzip the compressed file by double-clicking on it
 - Move the newly uncompressed `Spectre.app` to your _Applications_ folder
 
